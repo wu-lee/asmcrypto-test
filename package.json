@@ -1,0 +1,14 @@
+{
+  "name": "asm-crypto-test",
+  "version": "0.0.1",
+  "description": "A test case for an asmcrypto.js issue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "asmcrypto.js": "^0.22.0"
+  }
+}
